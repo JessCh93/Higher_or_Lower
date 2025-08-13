@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7af5500-175f-4059-a27b-a713d0b43acd" name="Changes" comment="" />
+    <list default="true" id="d7af5500-175f-4059-a27b-a713d0b43acd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/project/Readme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/game_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +15,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "JessCh93"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/JessCh93/Higher_or_Lower.git",
+    "accountId": "57655cd2-9bf7-437f-a054-e02c6391adc0"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
@@ -22,9 +39,19 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/s-cou/PycharmProject/Higher_or_Lower/pythonProject/project"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\s-cou\PycharmProject\Higher_or_Lower\pythonProject\project" />
+      <recent name="C:\Users\s-cou\PycharmProject\Higher_or_Lower\pythonProject" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\s-cou\PycharmProject\Higher_or_Lower\pythonProject\project" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
